@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @mokhs00 
    <br>안녕하세요, 컴퓨터공학과를 졸업하고 개발자의 길로 멈추지않고 차근차근 나아가고 있는 김한수입니다.
-- 📫 How to reach me ...
-   <br> email✉ : mokhs00@naver.com
 
-
-# 💾
-
-## 경력기술서 
+## 리주메(resume)
 > [Notion](https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574) << click!
 
 
