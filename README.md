@@ -36,8 +36,8 @@
   <br>
   <div>
     <h3>🔎More</h3>
-    <a href="https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574"><img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-    <a href="https://rnokhs.tistory.com/"><img src="https://img.shields.io/badge/Blog-FDEE21?style=for-the-badge&logo=Apache&logoColor=black"/></a>
+    <a href="https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574" target="_blank"><img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+    <a href="https://rnokhs.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/Blog-FDEE21?style=for-the-badge&logo=Apache&logoColor=black"/></a>
   </div>
   <br>
   <div>
