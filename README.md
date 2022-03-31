@@ -2,14 +2,13 @@
   <div>
     <h3> ☺About Me </h3>
     <p>👋 Hi, I’m Hansu Kim</p>
-    I'm working as a Backend Developer.
+    I'm working as a Server Engineer.
   </div>
   <div>
     <h3>🛠Tech Stack</h2>
     <div>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/> 
     </div>
     <br>
@@ -24,12 +23,11 @@
     </div>
     <div>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ExpressJS-ffffff?style=for-the-badge&logo=express&logoColor=black"/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
     </div>
+    <br>
     <div>
       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=PM2&logoColor=white"/>
     </div>
   </div>
   <br>
