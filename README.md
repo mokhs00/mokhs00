@@ -27,6 +27,11 @@
     </div>
     <br>
     <div>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=gRPC&logoColor=white"/>
+    </div>
+    <br>
+    <div>
       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
     </div>
   </div>
