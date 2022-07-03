@@ -13,6 +13,11 @@
     </div>
     <br>
     <div>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=gRPC&logoColor=white"/>
+    </div>
+    <br>
+    <div>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>      
     </div>
@@ -24,11 +29,6 @@
     <div>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
-    </div>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
-      <img src="https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=gRPC&logoColor=white"/>
     </div>
     <br>
     <div>
@@ -49,7 +49,3 @@
   </div>
   
 </div>
-
-  
-
-  
