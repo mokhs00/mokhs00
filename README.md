@@ -1,8 +1,10 @@
 <div align="left">
   <div>
     <h2> ☺About Me </h3>
-    <p>👋 Hi, I’m Hansu Kim</p>
-    I'm working as a Server Engineer.
+    <p> I'm working as Server Engineer at @banksalad </p>
+    <a href="https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574" target="_blank"><img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=Notion&logoColor=white"/></a> 
+    <a href="https://rnokhs.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/Blog-FDEE21?style=for-the-badge&logo=Apache&logoColor=black"/></a>
+    <p>  </p>
   </div>
   <div>
     <h2>🛠Tech Stack</h2>
@@ -32,19 +34,17 @@
     </div>
     <br>
     <div>
-      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
     </div>
-  </div>
-  <br>
-  <div>
-    <h2>🔎More</h3>
-    <a href="https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574" target="_blank"><img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-    <a href="https://rnokhs.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/Blog-FDEE21?style=for-the-badge&logo=Apache&logoColor=black"/></a>
   </div>
   <br>
     <h2>🎖Certificate</h3>
   <div>
-    <img src="https://user-images.githubusercontent.com/72328687/224491121-6ed3d626-aa01-408f-9019-ff2c03785d00.png" width="150" height="150"/>
+    <div>
+      <img src="https://user-images.githubusercontent.com/72328687/224491121-6ed3d626-aa01-408f-9019-ff2c03785d00.png" width="150" height="150"/>
+      <a href="https://www.credly.com/badges/1d2a1125-4fd0-454c-a063-80e80e5f92e9">AWS Certified Developer – Associate </a>
+    </div>
+    
   </div>
   
 </div>
