@@ -1,11 +1,11 @@
-<div align="center">
+<div align="left">
   <div>
-    <h3> ☺About Me </h3>
+    <h2> ☺About Me </h3>
     <p>👋 Hi, I’m Hansu Kim</p>
     I'm working as a Server Engineer.
   </div>
   <div>
-    <h3>🛠Tech Stack</h2>
+    <h2>🛠Tech Stack</h2>
     <div>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
@@ -37,12 +37,14 @@
   </div>
   <br>
   <div>
-    <h3>🔎More</h3>
+    <h2>🔎More</h3>
     <a href="https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574" target="_blank"><img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href="https://rnokhs.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/Blog-FDEE21?style=for-the-badge&logo=Apache&logoColor=black"/></a>
   </div>
   <br>
+    <h2>🎖Certificate</h3>
   <div>
+    <img src="https://user-images.githubusercontent.com/72328687/224491121-6ed3d626-aa01-408f-9019-ff2c03785d00.png" width="150" height="150"/>
   </div>
   
 </div>
