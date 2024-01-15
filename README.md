@@ -1,53 +1,26 @@
-<div align="left">
-  <div>
-    <h2> ☺About Me </h3>
-    <p> I'm working as Server Engineer at @banksalad </p>
-    <a href="https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574" target="_blank"><img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=Notion&logoColor=white"/></a> 
-    <a href="https://rnokhs.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/Blog-FDEE21?style=for-the-badge&logo=Apache&logoColor=black"/></a>
-    <a href="https://www.linkedin.com/in/mokhs00/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> 
-    <p>  </p>
-  </div>
-  <div>
-    <h2>🛠Tech Stack</h2>
-    <div>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/> 
-    </div>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
-      <img src="https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=gRPC&logoColor=white"/>
-    </div>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>      
-    </div>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
-    </div>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-    </div>
-  </div>
-  <br>
-    <h2>🎖Certificate</h3>
-  <div>
-    <div>
-      <img src="https://user-images.githubusercontent.com/72328687/224491121-6ed3d626-aa01-408f-9019-ff2c03785d00.png" width="150" height="150"/>
-      <a href="https://www.credly.com/badges/1d2a1125-4fd0-454c-a063-80e80e5f92e9">AWS Certified Developer – Associate </a>
-    </div>
-    
-  </div>
-  
-</div>
+### 🛠 Tech stacks
+
+- `Server`: Go, gRPC, Java, Kotlin, Spring, JPA, Python, Django, FastAPI
+- `Client`: JS, TS, React
+- `Infra`: AWS, kubernetes, Docker
+
+### 📦 Work experience
+
+- `Banksalad / Software Engineer / 2022.03 ~ Present`
+  - develop and operate a loan review service using about 50 coroutine safety with Golang, gRPC.
+  - I think observability is important and I do my best to secure it every time.
+  - 🪖 2023.06까지 산업기능요원으로 근무했습니다.
+- `Laonstory / Software Engineer & Project Lead(Sometimes) / 2021.06 ~ 2022.03 `
+  - develop multiple projects quickly and accurately in a short period of time.
+  - I learned skils I needed every time quickly and I'm not afraid to learn new skils.
+
+### 🎖 Certifications
+
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/1d2a1125-4fd0-454c-a063-80e80e5f92e9)
+
+### 🔗 Links
+
+- [Blog](https://rnokhs.tistory.com/)
+- [LinkedIn](https://www.linkedin.com/in/mokhs00/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmokhs00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
