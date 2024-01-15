@@ -11,7 +11,7 @@
   - develop and operate data-pipelines to maintain the product information SSOT(Single Source Of Truth) in real time
   - sometimes develop backoffice web service to optimize operating costs
   - I think operational efficiency and observability are important and I do my best to secure them every time.
-  - 🪖 2023.06까지 산업기능요원으로 근무했습니다.
+  - 🪖 2023.06에 산업기능요원으로 전역했습니다.
 - `Laonstory / Software Engineer & Project Lead(Sometimes) / 2021.06 ~ 2022.03 `
   - develop multiple projects quickly and accurately in a short period of time.
   - I learned skils I needed every time quickly and I'm not afraid to learn new skils.
