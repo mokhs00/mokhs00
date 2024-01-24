@@ -9,7 +9,7 @@
 - `Banksalad / Software Engineer / 2022.03 ~ Present`
   - develop and operate a loan review service using about 50 coroutine safety with Golang, gRPC.
   - develop and operate data-pipelines to maintain the product information SSOT(Single Source Of Truth) in real time
-  - sometimes develop backoffice web service to optimize operating costs
+  - sometimes develop backoffice web service to optimize operating cost
   - I think operational efficiency and observability are important and I do my best to secure them every time.
   - 🪖 2023.06에 산업기능요원으로 전역했습니다.
 - `Laonstory / Software Engineer & Project Lead(Sometimes) / 2021.06 ~ 2022.03 `
