@@ -14,7 +14,7 @@
   - 🪖 2023.06에 산업기능요원으로 전역했습니다.
 - `Laonstory / Software Engineer & Project Lead(Sometimes) / 2021.06 ~ 2022.03 `
   - develop multiple projects quickly and accurately in a short period of time.
-  - I learned skils I needed every time quickly and I'm not afraid to learn new skils.
+  - I learned skils I needed every time quickly and I'm not afraid to learn new skills.
 
 ### 🎖 Certifications
 
