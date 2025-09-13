@@ -1,3 +1,8 @@
+### 🎤 Presentation
+
+- [테스트로 나 혼자만 레벨업? - AUSGCON 2025 ](https://docs.google.com/presentation/d/1ixuN_FGzn9hEM7DNB_bKYzCC9NiFae9T-ldRigqGSkA/edit?slide=id.g388a850dd5a_0_6#slide=id.g388a850dd5a_0_6)
+
+
 ### 🛠 Tech stacks
 
 - `Server`: Go, gRPC, Java, Kotlin, Spring, JPA, Python, Django, FastAPI
